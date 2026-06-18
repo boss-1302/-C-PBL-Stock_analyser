@@ -1,0 +1,14 @@
+# Personal reference docs (not for GitHub)
+reference/
+
+# Compiled output
+stock_analyser.exe
+*.exe
+*.o
+
+# Generated reports
+exports/
+
+# Python
+__pycache__/
+*.pyc
